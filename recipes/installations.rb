@@ -20,7 +20,6 @@ execute "Percona yum Repository" do
   action :run
 end
 
-include_recipe "yum-epel"
 package "Percona-XtraDB-Cluster-56" do
   action :install
 end

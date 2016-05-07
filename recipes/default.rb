@@ -8,10 +8,10 @@
 #
 
 
-include_recipe "percona_cluster::inspections"
-include_recipe "percona_cluster::deletions"
-include_recipe "percona_cluster::installations"
-include_recipe "percona_cluster::configurations_percona"
-include_recipe "percona_cluster::configurations_mysql"
+include_recipe "Percona_Cluster::inspections"
+include_recipe "Percona_Cluster::deletions"
+include_recipe "Percona_Cluster::installations"
+include_recipe "Percona_Cluster::configurations_percona"
+include_recipe "Percona_Cluster::configurations_mysql"
 
 
