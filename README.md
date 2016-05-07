@@ -15,11 +15,11 @@
 ## Usage
 ```
 "percona_cluster": {
-"root_password": "mysql",
-"wsrep_cluster_addresses": [ "192.168.1.10", "192.168.1.11", "192.168.1.12" ],
-"wsrep_node_address": "192.168.1.10",
-"wsrep_cluster_name": "my_cluster",
-"wsrep_sst_auth": "sstuser:s3cret"
+    "root_password": "mysql",
+    "wsrep_cluster_addresses": [ "192.168.1.10", "192.168.1.11", "192.168.1.12" ],
+    "wsrep_node_address": "192.168.1.10",
+    "wsrep_cluster_name": "my_cluster",
+    "wsrep_sst_auth": "sstuser:s3cret"
 }
 ```
 
