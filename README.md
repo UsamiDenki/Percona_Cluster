@@ -37,5 +37,4 @@ knife solo cook root@192.168.1.12
 ```
 
 ## Licence
-[MIT License](https://ja.wikipedia.org/wiki/MIT_License)
-Copyright © 2016 Kenichi Usami All Rights Reserved.
+[MIT](https://ja.wikipedia.org/wiki/MIT_License)
